@@ -216,7 +216,7 @@ p.note { display: none; }
 <h2><span class="yellow">お昼はチャーハン</span></h2>
 <a href="20250803_019.JPG" target="_blank"><img src="20250803_019.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">各店舗共通の食器ケースは１箇所、見つかりませんでした</span></h2>
+<h2><span class="yellow">各店舗共通の食器ケースは１箇所、なかなか見つかりませんでした</span></h2>
 <a href="20250803_020.JPG" target="_blank"><img src="20250803_020.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">辛すぎて口の中が火事になったので、甘い果物で口直し</span></h2>

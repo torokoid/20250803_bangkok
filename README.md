@@ -246,7 +246,7 @@ p.note { display: none; }
 <a href="20250803_030.JPG" target="_blank"><img src="20250803_030.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250803_031.JPG" target="_blank"><img src="20250803_031.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">タイ人たちは自炊せずに外食が多いようです</span></h2>
+<h2><span class="yellow">タイ人たちは自炊せずに外食する人が多いようです</span></h2>
 <a href="20250803_032.JPG" target="_blank"><img src="20250803_032.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">晩御飯はこれで済ませました</span></h2>

@@ -226,7 +226,7 @@ p.note { display: none; }
 <h2><span class="yellow">フロアの広さを生かした、おしゃれなシートスペース</span></h2>
 <a href="20250803_023.JPG" target="_blank"><img src="20250803_023.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">JAPANブランドは全てありました</span></h2>
+<h2><span class="yellow">JAPANブランドの近々の有名どころは全てありました</span></h2>
 <a href="20250803_024.JPG" target="_blank"><img src="20250803_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250803_025.JPG" target="_blank"><img src="20250803_025.JPG" alt="サンプル画像" class="responsive-media"></a>
     

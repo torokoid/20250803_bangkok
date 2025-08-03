@@ -194,10 +194,10 @@ p.note { display: none; }
 <h2><span class="yellow">モノレールの高架や、道路構造が立体的</span></h2>
 <a href="20250803_012.JPG" target="_blank"><img src="20250803_012.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">市内の一般的な交通状況</span></h2>
+<h2><span class="yellow">市内の一般的な交通状況<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250803_001.MOV" target="_blank"><img src="20250803_001.png" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">逆走バイクは歩道まで走ります</span></h2>
+<h2><span class="yellow">逆走バイクは歩道まで走ります<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250803_002.MOV" target="_blank"><img src="20250803_002.png" alt="サンプル画像" class="responsive-media"></a>
 
     
